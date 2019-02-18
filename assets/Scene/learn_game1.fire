@@ -492,10 +492,10 @@
       "__id__": 9
     },
     "_enabled": true,
-    "jumpHeight": 0,
-    "jumpDuration": 0,
-    "maxMoveSpeed": 0,
-    "accel": 0,
+    "jumpHeight": 200,
+    "jumpDuration": 0.5,
+    "maxMoveSpeed": 50,
+    "accel": 1,
     "_id": "51j32M125Oa5owulY0s6tH"
   },
   {
